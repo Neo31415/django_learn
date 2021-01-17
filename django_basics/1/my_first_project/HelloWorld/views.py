@@ -10,5 +10,12 @@ def index(request):
 	"mentors" : mentors
 	}
 	# response = HttpResponse("Hello World")
-	response = render(request,"index.html",context)
+	response = render(request,"HelloWorld/index.html",context)
+	return response
+
+
+def hello(request):
+	context = {} 
+	# response = HttpResponse("Hello World")
+	response = render(request,"HelloWorld/hello.html",context)
 	return response
