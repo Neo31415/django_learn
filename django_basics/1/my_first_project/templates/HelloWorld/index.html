@@ -13,12 +13,17 @@
 
 {% include 'HelloWorld/navbar.html' %}
 
+<div class="container">
+	
+
+
 <h1>Hello World</h1>
-<ul>
+<ul class="collection">
 	{% for mentor in mentors %}
-	<li class="{% cycle 'bold' '' %}" >{{mentor}}</li>
+	<li class="{% cycle 'bold' '' %} collection-item" >{{mentor}}</li>
 	{% endfor %}
 </ul>
 <span>Developed By: {{developer}}</span>
+</div>
 {% endblock %}
 
