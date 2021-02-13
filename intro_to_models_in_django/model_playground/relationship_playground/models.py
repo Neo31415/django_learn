@@ -1,5 +1,8 @@
 from django.db import models
-
+from django.core.validators import (
+MaxValueValidator,
+MinValueValidator
+	)
 # Create your models here.
 
 # many to one relationship
@@ -19,3 +22,37 @@ class Author(models.Model):
 		return self.name
 
 
+
+class Topping(models.Model):
+	name = models.CharField(max_length = 256)
+
+	def __str__(self):
+		return self.name
+		
+
+class Pizza(models.Model):
+	name = models.CharField(max_length = 256)
+	price = models.IntegerField(validators = [MinValueValidator(50),MaxValueValidator(500)])
+	toppings = models.ManyToManyField('Topping')
+	
+	def __str__(self):
+		return self.name
+		
+
+class Person(models.Model):
+	name = models.CharField(max_length = 256)
+	def __str__(self):
+		return self.name
+
+class Society(models.Model):
+	name = models.CharField(max_length = 256)
+	def __str__(self):
+		return self.name
+
+class Relationship(models.Model):
+	name = models.ForeignKey('Person', on_delete = models.CASCADE)
+	society = models.ForeignKey('Society', on_delete = models.CASCADE)
+	designation = models.CharField(max_length = 256)
+
+	def __str__(self):
+		return "{}_{}_{}".format(self.name,self.society,self.designation)

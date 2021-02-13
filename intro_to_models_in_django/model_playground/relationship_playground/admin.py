@@ -5,5 +5,10 @@ from relationship_playground import models
 
 admin.site.register([
 models.Article,
-models.Author
+models.Author,
+models.Topping,
+models.Pizza,
+models.Person,
+models.Society,
+models.Relationship
 	])
