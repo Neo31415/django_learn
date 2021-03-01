@@ -1,0 +1,21 @@
+{% extends 'main/base.html' %}
+
+{% block content %}
+
+{% if success %}
+<h5>Form submission successfull!!</h5>
+{% endif %}
+
+<form method="POST">
+{% csrf_token %}
+<p>
+{% for field in article_form %}
+{{field.name}}:  {{field}}<br>
+{% endfor %}	
+</p>
+<button type="submit">Submit</button>
+<button type="reset">Reset</button>
+</form>
+
+
+{% endblock %}
