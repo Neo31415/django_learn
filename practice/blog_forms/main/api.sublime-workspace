@@ -1,0 +1,878 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"stude",
+				"students"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"de",
+				"designation"
+			],
+			[
+				"man",
+				"max_length"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"ra",
+				"random_between"
+			],
+			[
+				"Val",
+				"Value"
+			],
+			[
+				"Eq",
+				"Eqn1"
+			],
+			[
+				"The",
+				"Therefore"
+			],
+			[
+				"Num",
+				"Num_low"
+			],
+			[
+				"ran",
+				"random_between"
+			],
+			[
+				"Str",
+				"Str11"
+			],
+			[
+				"F",
+				"F"
+			],
+			[
+				"h",
+				"H"
+			],
+			[
+				"Fg",
+				"Fg2"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"Ans",
+				"AnsN"
+			],
+			[
+				"Y_",
+				"Y_N"
+			],
+			[
+				"X_",
+				"X_N"
+			],
+			[
+				"Co",
+				"Coff_N"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"St",
+				"Steps1"
+			],
+			[
+				"Pt",
+				"Pt3"
+			],
+			[
+				"per",
+				"Perimeter"
+			],
+			[
+				"A",
+				"A22"
+			],
+			[
+				"who",
+				"whole"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"fac",
+				"factors"
+			],
+			[
+				"ex",
+				"exactly"
+			],
+			[
+				"Len",
+				"Len1"
+			],
+			[
+				"rando",
+				"random_member"
+			],
+			[
+				"th",
+				"then"
+			],
+			[
+				"ste",
+				"Ste"
+			],
+			[
+				"facto",
+				"factorization"
+			],
+			[
+				"the",
+				"therefore"
+			],
+			[
+				"sma",
+				"smaller"
+			],
+			[
+				"m",
+				"must"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Nu",
+				"Number"
+			],
+			[
+				"p",
+				"p_dev"
+			],
+			[
+				"Pe",
+				"Peri"
+			],
+			[
+				"l",
+				"latex"
+			],
+			[
+				"time",
+				"times"
+			],
+			[
+				"divi",
+				"divides"
+			],
+			[
+				"no",
+				"non-zero"
+			],
+			[
+				"com",
+				"completely"
+			],
+			[
+				"mul",
+				"multiple"
+			],
+			[
+				"shi",
+				"shirts"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"cub",
+				"cuboid"
+			],
+			[
+				"cu",
+				"cube"
+			],
+			[
+				"r1",
+				"R1_neg"
+			],
+			[
+				"pla",
+				"places"
+			],
+			[
+				"L",
+				"Lis"
+			],
+			[
+				"c",
+				"constant"
+			],
+			[
+				"z",
+				"Z"
+			],
+			[
+				"Pri",
+				"PrimeList"
+			],
+			[
+				"flae",
+				"false"
+			],
+			[
+				"qu",
+				"quadratic"
+			],
+			[
+				"remai",
+				"remaining"
+			],
+			[
+				"di",
+				"division"
+			],
+			[
+				"root",
+				"roots"
+			],
+			[
+				"TH",
+				"Theorem"
+			],
+			[
+				"Si",
+				"Sign_rev"
+			],
+			[
+				"Pow",
+				"Pow"
+			],
+			[
+				"frac",
+				"fraction_mul"
+			],
+			[
+				"Ter",
+				"Term1"
+			],
+			[
+				"S",
+				"Simplify"
+			],
+			[
+				"C",
+				"Coff4"
+			],
+			[
+				"pow",
+				"Pow2"
+			],
+			[
+				"g",
+				"g"
+			],
+			[
+				"Po2",
+				"Pow2"
+			],
+			[
+				"Cof",
+				"Coff2"
+			],
+			[
+				"Coff",
+				"Coff3"
+			],
+			[
+				"Ar",
+				"Argument"
+			],
+			[
+				"Px",
+				"PX1"
+			],
+			[
+				"Term",
+				"Term3"
+			],
+			[
+				"Val_",
+				"Val_str"
+			],
+			[
+				"Ste",
+				"Step2"
+			],
+			[
+				"step",
+				"step_one"
+			],
+			[
+				"Divi",
+				"Dividend_str"
+			],
+			[
+				"Re",
+				"Remainder"
+			],
+			[
+				"algeb",
+				"algebra_form"
+			],
+			[
+				"divide",
+				"divided"
+			],
+			[
+				"fra",
+				"fraction"
+			],
+			[
+				"Ze",
+				"Zero"
+			],
+			[
+				"Zero",
+				"Zero_str"
+			],
+			[
+				"Slope_str_f",
+				"Slope_str_frac"
+			],
+			[
+				"Ca",
+				"Calculate"
+			],
+			[
+				"Cal",
+				"calculate"
+			],
+			[
+				"year",
+				"yearly"
+			],
+			[
+				"inr",
+				"interest"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"wi",
+				"will"
+			],
+			[
+				"co",
+				"compound"
+			],
+			[
+				"an",
+				"annum"
+			],
+			[
+				"ann",
+				"annually"
+			],
+			[
+				"ha",
+				"half-yearly"
+			],
+			[
+				"in",
+				"interest"
+			],
+			[
+				"Give",
+				"Given"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/sumit/Desktop/django_learn/learn_api/SampleApi/SampleApi/urls.py",
+			"settings":
+			{
+				"buffer_size": 798,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/sumit/Desktop/django_learn/learn_api/SampleApi/api/urls.py",
+			"settings":
+			{
+				"buffer_size": 113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "from rest_framework.decorators import api_view\n# from rest_framework.request import Request\nfrom rest_framework.response import Response\n# Create your views here.\n\n@api_view()\ndef userAPI(request):\n\tcontext = [\n\t{'name' : 'sumit', 'language' : 'python'},\n\t{'name' : 'umesh', 'language' : 'c++'}\n\t]\n\t\n\treturn Response(context)",
+			"file": "/home/sumit/Desktop/django_learn/learn_api/SampleApi/api/views.py",
+			"file_size": 325,
+			"file_write_time": 132590987411841905,
+			"settings":
+			{
+				"buffer_size": 325,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"preety",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sumit/Desktop/django_learn/learn_api/SampleApi",
+		"/home/sumit/Desktop/django_learn/learn_api/SampleApi/api"
+	],
+	"file_history":
+	[
+		"/home/sumit/Desktop/test.py",
+		"/home/sumit/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/sumit/Desktop/django_learn/intro_to_models_in_django/model_playground/main/validators.py",
+		"/home/sumit/Desktop/django_learn/intro_to_models_in_django/model_playground/main/admin.py",
+		"/home/sumit/Desktop/django_learn/intro_to_models_in_django/model_playground/relationship_playground/admin.py",
+		"/home/sumit/Desktop/django_learn/intro_to_models_in_django/model_playground/model_playground/settings.py",
+		"/home/sumit/Desktop/django_learn/intro_to_models_in_django/model_playground/relationship_playground/models.py",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/25_matrix.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/three_d_ncert_misc/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/trigonometry_graph/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/grade_9_trigonometry/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/trigonometry_graph/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/trigonometry_graph/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/trigonometry_graph/qt_ct.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/linear_equation_question.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/trigonometry_graph/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/grade_9_trigonometry/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/three_d_ncert_misc/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/25copy_generateGFS.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/decimal_ncert_question/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/volume_and_surfaces/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/volume_and_surfaces/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/perimeters_and_areas_of_plane_figures/perimeters_and_areas_of_plane_figures_text.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/polynomials/polynomial_helper.pl",
+		"/home/sumit/Desktop/test.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/radical_question.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/perimeters_and_areas_of_plane_figures/gfs_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/perimeters_and_areas_of_plane_figures/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/perimeters_and_areas_of_plane_figures/gf_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/areas_related_to_circle/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/volume_and_surfaces/testing.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/perimeters_and_areas_of_plane_figures/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/trignometric_graphs/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/trignometry_graph_question.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/volume_and_surfaces/gfs_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/volume_and_surfaces/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/volume_and_surfaces/gf_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/polynomials_zobal.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/aplication_diff/window_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/polynomials/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/algeberic_identities/identities_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/polynomials/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/grade_9_trigonometry/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/polynomials/gf.pl",
+		"/home/sumit/Desktop/django_learn/runtime.txt",
+		"/home/sumit/Desktop/django_learn/.gitignore",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/functions_and_graphs/functions_and_graphs_text.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_missing_subparts_dhruv/shinglee_missing_subparts_dhruv_text.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/factors_and_multiples/factors_and_multiples_text.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_missing_subparts_dhruv/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_missing_subparts_dhruv/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/squares_and_square_roots/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/squares_and_square_roots/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/polynomials/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_hcf_lcm/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_hcf_lcm/shinglee_hcf_lcm_text.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/factors_and_multiples/factor_and_multiples_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/squares_and_square_roots/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/simultaneous_linear_equations_in_two_unknown/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/simultaneous_linear_equations_in_two_unknown/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/simultaneous_linear_equations_in_two_unknown/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/playing_with_number/playing_with_number_helper_function.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/test_prolog.py",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/radical_expressions_and_equations/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/radical_expressions_and_equations/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/radical_expressions_and_equations/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/factors_and_multiples/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/factors_and_multiples/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/factors_and_multiples/concept_to_config_type.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_numbers/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_numbers/helpergfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_numbers/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/cubes_cube_roots/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/cubes_cube_roots/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/cubes_cube_roots/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/prime_numbers/methods.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/playing_with_number/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/playing_with_number/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_number_tenth_class/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_number_extra_questions_class10/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_number_extra_questions_class10/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/initm.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/shinglee_doc_missing.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/main_manager.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/prime_numbers/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_missing_subparts_dhruv/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/prime_numbers/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/square_roots_cpr.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/application_of_integrals/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/application_of_integrals/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/application_of_integrals/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/determinant_questions_rupinder/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/determinant_questions_rupinder/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/playing_with_number/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_number_extra_questions_class10/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/complex_numbers/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/radicals/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_numbers/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/indices_act.json",
+		"/home/sumit/Desktop/indices_act.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/indices/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_hcf_lcm/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_missing_subparts_dhruv/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/shinglee_missing_subparts_dhruv/qt_ct.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/prime_numbers/qt_ct.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/prime_numbers/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/coordinates_and_linear_graphs/coordinates_and_linear_graphs_text.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/factors_and_multiples/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/functions_and_relations/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/real_number_tenth_class/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/determinant_questions_rupinder/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/sputils.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/squares_and_square_roots/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/straight_lines_exercise_3/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/straight_lines_exercise_3/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/straight_lines_exercise_3/gfs.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/trignometric_new_cts.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/statistic_cbse_11th/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/probability_12th_13_4/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/indices/gf.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/conditional_statements/helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/statistics_o_level/qt_ct.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/polynomials.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/polynomials2/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/indices/concept_to_config_type.txt",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/json_files/topics/indices_missing_ct.json",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/indices/indices_helper.pl",
+		"/home/sumit/Desktop/O_level_maths_topics/main_framework/quadratic_equation1/concept_to_config_type.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/sumit/Desktop/django_learn/learn_api/SampleApi"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/sumit/Desktop/django_learn/learn_api/SampleApi/SampleApi/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								702,
+								702
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/sumit/Desktop/django_learn/learn_api/SampleApi/api/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/sumit/Desktop/django_learn/learn_api/SampleApi/api/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 262.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/sublime_workspaces/O_level.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
